@@ -1,0 +1,25 @@
+{
+  "name": "DZSilkKit",
+  "version": "0.1.0",
+  "summary": "A short description of DZSilkKit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DZSilkKit",
+  "license": "MIT",
+  "authors": {
+    "stonedong": "yishuiliunian@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DZSilkKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DZSilkKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

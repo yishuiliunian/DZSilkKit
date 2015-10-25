@@ -37,4 +37,10 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'DZProgrameDefines' 
+  s.dependency 'DZSinglonFactory'
+  s.dependency 'DZAdjustFrame'
+  s.dependency 'DZCache'
+  s.dependency 'DZGeometryTools'
+  s.dependency 'StyleSheet'
 end

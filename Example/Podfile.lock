@@ -1,0 +1,21 @@
+PODS:
+  - DZSilkKit (0.1.0)
+  - FBSnapshotTestCase (2.0.5):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.5)
+  - FBSnapshotTestCase/Core (2.0.5)
+  - FBSnapshotTestCase/SwiftSupport (2.0.5):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DZSilkKit (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DZSilkKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZSilkKit: 4ed0183731ecf4cb53dd53920e07d5a1f3df488e
+  FBSnapshotTestCase: 6917deb01d0556dd544536f9eb34e0cf26f904d5
+
+COCOAPODS: 0.38.2

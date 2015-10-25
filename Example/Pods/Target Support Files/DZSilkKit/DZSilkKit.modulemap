@@ -1,0 +1,6 @@
+framework module DZSilkKit {
+  umbrella header "DZSilkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
